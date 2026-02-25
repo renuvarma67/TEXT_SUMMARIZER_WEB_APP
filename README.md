@@ -7,7 +7,7 @@ This application generates concise summaries from long text input using Natural 
 
 ## 🔗 Live Demo
 
-(Add your Streamlit live link here after deployment)
+(https://textsummarizerwebapp-ek8hbv4msfwm9pgwagvcj5.streamlit.app/)
 
 
 ## 📌 Project Overview
